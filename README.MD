@@ -2,17 +2,19 @@
 Un proyecto de raycasting con motor 3D básico en C utilizando MLX42. Inspirado en Wolfenstein 3D, con animaciones personalizadas, efectos de luz, detección de colisiones y bonus gráficos avanzados.
 
 # 🎮 Features
-✅ Raycasting para renderizado 3D
-✅ Movimiento en tiempo real (adelante, atrás, lateral)
-✅ Rotación con el mouse
-✅ Puertas animadas con detección de proximidad
-✅ UI animada con diseño propio
-✅ Efectos de luces con animación personalizada
-✅ Minimap en tiempo real
-✅ Colisiones dinámicas
-✅ Bonus visuales opcionales
-✅ Velocidad de movimiento ajustable (RUN_SPEED activado con 3)
-✅ Soporte para mapas .cub
+
+✅ Raycasting para renderizado 3D  
+✅ Movimiento en tiempo real (adelante, atrás, lateral)  
+✅ Rotación con el mouse  
+✅ Puertas animadas con detección de proximidad  
+✅ UI animada con diseño propio  
+✅ Efectos de luces con animación personalizada  
+✅ Minimap en tiempo real  
+✅ Colisiones dinámicas  
+✅ Bonus visuales opcionales  
+✅ Velocidad de movimiento ajustable (RUN_SPEED activado con 3)  
+✅ Soporte para mapas .cub  
+
 
 # 📸 Screenshots
 ![cube3d](./public/cube3d.png)
@@ -79,7 +81,7 @@ make
 ```
 
 # ✅ Estado
-Proyecto aprobado y validado en 42 Network ✅
-Comprobado con Valgrind y Sanitizer
-Sin memory leaks propios
-Listo para clonar y ejecutar en Linux / WSL
+Proyecto aprobado y validado en 42 Network ✅  
+Comprobado con Valgrind y Sanitizer  
+Sin memory leaks propios  
+Listo para clonar y ejecutar en Linux / WSL  
